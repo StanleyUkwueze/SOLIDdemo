@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Repositories\" />
+    <None Remove="Repositories\InMemoryImplementation\" />
+    <None Remove="Repositories\InMemoryImplementation\Implementation\" />
+    <None Remove="Repositories\InMemoryImplementation\Interface\" />
+    <None Remove="Repositories\FileImplementation\" />
+    <None Remove="Repositories\FileImplementation\Implementation\" />
+    <None Remove="Repositories\FileImplementation\Interface\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+    <Folder Include="Repositories\InMemoryImplementation\" />
+    <Folder Include="Repositories\InMemoryImplementation\Implementation\" />
+    <Folder Include="Repositories\InMemoryImplementation\Interface\" />
+    <Folder Include="Repositories\FileImplementation\" />
+    <Folder Include="Repositories\FileImplementation\Implementation\" />
+    <Folder Include="Repositories\FileImplementation\Interface\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\APPModels\APPModels.csproj" />
+  </ItemGroup>
+</Project>

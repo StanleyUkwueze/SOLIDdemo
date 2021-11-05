@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{5C02855F-704C-4198-ACFC-D0A6F9A4DA30}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APPClient/Account.cs">
+    <Files>
+      <File FileName="APPClient/Program.cs" Line="20" Column="1" IsPinned="True" />
+      <File FileName="APPLIB/Services/Imlementations/UserServices.cs" Line="37" Column="10" />
+      <File FileName="APPLIB/GlobalConfig.cs" Line="26" Column="50" />
+      <File FileName="APPDataAccess/Repositories/InMemoryImplementation/Implementation/UserRepository.cs" Line="8" Column="50" />
+      <File FileName="APPClient/Account.cs" Line="33" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SOLIDDemo" expanded="True">
+            <Node name="APPClient" expanded="True">
+              <Node name="Account.cs" selected="True" />
+            </Node>
+            <Node name="APPDataAccess" expanded="True">
+              <Node name="Repositories" expanded="True">
+                <Node name="FileImplementation" expanded="True" />
+                <Node name="InMemoryImplementation" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="APPLIB" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.APPClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

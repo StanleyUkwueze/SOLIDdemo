@@ -1,0 +1,10 @@
+/Users/macbook/Projects/SOLIDDemo/APPModels/bin/Debug/netcoreapp3.1/APPModels.deps.json
+/Users/macbook/Projects/SOLIDDemo/APPModels/bin/Debug/netcoreapp3.1/APPModels.dll
+/Users/macbook/Projects/SOLIDDemo/APPModels/bin/Debug/netcoreapp3.1/APPModels.pdb
+/Users/macbook/Projects/SOLIDDemo/APPModels/obj/Debug/netcoreapp3.1/APPModels.csproj.AssemblyReference.cache
+/Users/macbook/Projects/SOLIDDemo/APPModels/obj/Debug/netcoreapp3.1/APPModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/SOLIDDemo/APPModels/obj/Debug/netcoreapp3.1/APPModels.AssemblyInfoInputs.cache
+/Users/macbook/Projects/SOLIDDemo/APPModels/obj/Debug/netcoreapp3.1/APPModels.AssemblyInfo.cs
+/Users/macbook/Projects/SOLIDDemo/APPModels/obj/Debug/netcoreapp3.1/APPModels.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/SOLIDDemo/APPModels/obj/Debug/netcoreapp3.1/APPModels.dll
+/Users/macbook/Projects/SOLIDDemo/APPModels/obj/Debug/netcoreapp3.1/APPModels.pdb

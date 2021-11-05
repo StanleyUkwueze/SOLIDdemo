@@ -1,0 +1,15 @@
+/Users/macbook/Projects/SOLIDDemo/APPLIB/obj/Debug/netcoreapp3.1/APPLIB.csproj.AssemblyReference.cache
+/Users/macbook/Projects/SOLIDDemo/APPLIB/obj/Debug/netcoreapp3.1/APPLIB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/SOLIDDemo/APPLIB/obj/Debug/netcoreapp3.1/APPLIB.AssemblyInfoInputs.cache
+/Users/macbook/Projects/SOLIDDemo/APPLIB/obj/Debug/netcoreapp3.1/APPLIB.AssemblyInfo.cs
+/Users/macbook/Projects/SOLIDDemo/APPLIB/obj/Debug/netcoreapp3.1/APPLIB.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/SOLIDDemo/APPLIB/bin/Debug/netcoreapp3.1/APPLIB.deps.json
+/Users/macbook/Projects/SOLIDDemo/APPLIB/bin/Debug/netcoreapp3.1/APPLIB.dll
+/Users/macbook/Projects/SOLIDDemo/APPLIB/bin/Debug/netcoreapp3.1/APPLIB.pdb
+/Users/macbook/Projects/SOLIDDemo/APPLIB/obj/Debug/netcoreapp3.1/APPLIB.dll
+/Users/macbook/Projects/SOLIDDemo/APPLIB/obj/Debug/netcoreapp3.1/APPLIB.pdb
+/Users/macbook/Projects/SOLIDDemo/APPLIB/bin/Debug/netcoreapp3.1/APPDataAccess.dll
+/Users/macbook/Projects/SOLIDDemo/APPLIB/bin/Debug/netcoreapp3.1/APPModels.dll
+/Users/macbook/Projects/SOLIDDemo/APPLIB/bin/Debug/netcoreapp3.1/APPDataAccess.pdb
+/Users/macbook/Projects/SOLIDDemo/APPLIB/bin/Debug/netcoreapp3.1/APPModels.pdb
+/Users/macbook/Projects/SOLIDDemo/APPLIB/obj/Debug/netcoreapp3.1/APPLIB.csproj.CopyComplete

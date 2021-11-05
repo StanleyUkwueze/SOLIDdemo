@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="Services\Interfaces\" />
+    <None Remove="Services\Imlementations\" />
+    <None Remove="Services\DTOs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="Services\Imlementations\" />
+    <Folder Include="Services\DTOs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\APPDataAccess\APPDataAccess.csproj" />
+    <ProjectReference Include="..\APPModels\APPModels.csproj" />
+  </ItemGroup>
+</Project>
